@@ -1,23 +1,38 @@
 [
     {
-        "titol": "Dragon Ball",
-        "tipus": "TV",
+        "titol": "Boruto: Naruto the Movie",
+        "tipus": "Movie",
         "estat": "Finished Airing",
-        "posicio_popularitat": 150,
+        "posicio_popularitat": 503,
         "classificacio_edat": "PG-13 - Teens 13 or older",
-        "sinopsis": "Gokuu Son is a young boy who lives in the woods all alone—that is, until a girl named Bulma runs into him in her search for a set of magical objects called the \"Dragon Balls.\" Since the artifacts are said to grant one wish to whoever collects all seven, Bulma hopes to gather them and wish for a perfect boyfriend. Gokuu happens to be in possession of a dragon ball, but unfortunately for Bulma, he refuses to part ways with it, so she makes him a deal: he can tag along on her journey if he lets her borrow the dragon ball's power. With that, the two set off on the journey of a lifetime.\n\nThey don't go on the journey alone. On the way, they meet the old Muten-Roshi and wannabe disciple Kuririn, with whom Gokuu trains to become a stronger martial artist for the upcoming World Martial Arts Tournament. However, it's not all fun and games; the ability to make any wish come true is a powerful one, and there are others who would do much worse than just wishing for a boyfriend. To stop those who would try to abuse the legendary power, they train to become stronger fighters, using their newfound strength to help the people around them along the way.\n\n[Written by MAL Rewrite]",
-        "puntuacio": 7.98,
-        "episodis": 153,
-        "url": "https://myanimelist.net/anime/223/Dragon_Ball",
+        "sinopsis": "The spirited Boruto Uzumaki, son of Seventh Hokage Naruto, is a skilled ninja who possesses the same brashness and passion his father once had. However, the constant absence of his father, who is busy with his Hokage duties, puts a damper on Boruto's fire. Upon learning that his father will watch the aspiring ninjas who will participate in the upcoming Chunin exams, Boruto is driven to prove to him that he is worthy of his attention. In order to do so, he enlists the help of Naruto's childhood friend and rival, Sasuke Uchiha. \n\nThe Chunin exams begin and progress smoothly, until suddenly, the Konohagakure is attacked by a new foe that threatens the long-standing peace of the village. Now facing real danger, Naruto and his comrades must work together to protect the future of their cherished home and defeat the evil that terrorizes their world. As this battle ensues, Boruto comes to realize the struggles his father once experienced—and what it truly means to be a ninja.\n\n[Written by MAL Rewrite]",
+        "puntuacio": 7.38,
+        "episodis": 1,
+        "url": "https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie",
         "generes": [
             "Action",
             "Adventure",
-            "Comedy",
             "Fantasy"
         ],
-        "any_estrena": 1986,
+        "any_estrena": null,
         "estudis": [
-            "Toei Animation"
+            "Pierrot"
         ]
+    },
+    {
+        "titol": "Kamiusagi Rope x Boruto: Naruto Next Generations",
+        "tipus": "CM",
+        "estat": "Finished Airing",
+        "posicio_popularitat": 7219,
+        "classificacio_edat": "G - All Ages",
+        "sinopsis": "A 3-way collaboration between Kamiusagi Rope, Boruto: Naruto Next Generations, and TOHO Cinemas. The purpose is to promote a new TOHO theater opening up in Ueno on November 4, 2017. The collaboration video will also be available to view in TOHO Cinemas in Tokyo, Kanagawa, Chiba, and Saitama from Ocotober 21 - December 1.",
+        "puntuacio": 5.48,
+        "episodis": 1,
+        "url": "https://myanimelist.net/anime/36564/Kamiusagi_Rope_x_Boruto__Naruto_Next_Generations",
+        "generes": [
+            "Comedy"
+        ],
+        "any_estrena": null,
+        "estudis": []
     }
 ]
