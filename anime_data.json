@@ -1,18 +1,21 @@
 [
     {
-        "titol": "One Piece Film: Strong World",
-        "sinopsis": "Upon hearing news that islands in East Blue are being destroyed, Monkey D. Luffy and his crew go to investigate. On their way, however, an outlandish pirate ship appears out of the sky, helmed by the infamous pirate Shiki \"the Golden Lion\"—a man who ate the Float-Float Fruit and the first ever prisoner to escape from Impel Down. In his quest to defeat the World Government, Shiki kidnaps Nami to be his own navigator and sends the rest of the Straw Hat Pirates to his floating islands as hostages, leaving her in a dilemma. Separated in a land under Shiki's absolute control, Luffy and his crew must survive the mystifying terrain in order to bring back their navigator and friend.\n\n[Written by MAL Rewrite]",
-        "puntuacio": 8.05,
-        "episodis": 1,
-        "url": "https://myanimelist.net/anime/4155/One_Piece_Film__Strong_World",
+        "titol": "Naruto: Shippuuden",
+        "tipus": "TV",
+        "estat": "Finished Airing",
+        "popularitat": 16,
+        "sinopsis": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.\n \nAlthough Naruto is older and sinister events loom on the horizon, he has changed little in personality—still rambunctious and childish—though he is now far more confident and possesses an even greater determination to protect his friends and home. Come whatever may, Naruto will carry on with the fight for what is important to him, even at the expense of his own body, in the continuation of the saga about the boy who wishes to become Hokage.\n\n[Written by MAL Rewrite]",
+        "puntuacio": 8.28,
+        "episodis": 500,
+        "url": "https://myanimelist.net/anime/1735/Naruto__Shippuuden",
         "generes": [
             "Action",
             "Adventure",
             "Fantasy"
         ],
-        "any_estrena": null,
+        "any_estrena": 2007,
         "estudis": [
-            "Toei Animation"
+            "Pierrot"
         ]
     }
 ]
