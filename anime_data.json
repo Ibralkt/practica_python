@@ -1,24 +1,63 @@
 [
     {
-        "titol": "Sin: Nanatsu no Taizai",
-        "tipus": "TV",
+        "titol": "Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen",
+        "tipus": "TV Special",
         "estat": "Finished Airing",
-        "posicio_popularitat": 1544,
-        "classificacio_edat": "R+ - Mild Nudity",
-        "sinopsis": "Lucifer, an Archangel and former head of the Seven Heavenly Virtues, is banished from Heaven after revolting against the Lord's will. While plummeting from the skies, she is halted halfway between Heaven and Hell after crashing through the roof of a high school church. Though she is witnessed by Maria Totsuka, a soft-spoken student at the academy, Lucifer swiftly continues her descent into the depths of Hell.\n\nSoon after her arrival, Lucifer is found by aspiring Demon Lord and fangirl Leviathan. The two decide to overthrow the Seven Sins, the authorities of Hell under the leadership of Belial. But with their combined powers, the Seven Sins are able to repel Lucifer and contain her divine powers by placing a Garb of Punishment over her body, transforming Lucifer into a Demon Lord. \n\nLonging for revenge and accompanied by Leviathan, Lucifer makes her way back to Earth, where she forces Maria to become her immortal slave. Together with her new accomplices, Lucifer sets out on a mission to subdue the Seven Sins so she may be free of the curse brought upon by her Garb.\n\n[Written by MAL Rewrite]",
-        "puntuacio": 5.76,
-        "episodis": 12,
-        "url": "https://myanimelist.net/anime/33834/Sin__Nanatsu_no_Taizai",
+        "posicio_popularitat": 2094,
+        "classificacio_edat": "PG-13 - Teens 13 or older",
+        "sinopsis": "Bardock, Son Goku's father, is a low-ranking Saiyan soldier who was given the power to see into the future by the last remaining alien on a planet he just destroyed. He witnesses the destruction of his race and must now do his best to stop Frieza's impending massacre.\n\n(Source: ANN)",
+        "puntuacio": 7.58,
+        "episodis": 1,
+        "url": "https://myanimelist.net/anime/986/Dragon_Ball_Z_Special_1__Tatta_Hitori_no_Saishuu_Kessen",
+        "generes": [
+            "Adventure",
+            "Comedy",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "any_estrena": null,
+        "estudis": [
+            "Toei Animation"
+        ]
+    },
+    {
+        "titol": "Dragon Ball Z Movie 14: Kami to Kami",
+        "tipus": "Movie",
+        "estat": "Finished Airing",
+        "posicio_popularitat": 1132,
+        "classificacio_edat": "PG-13 - Teens 13 or older",
+        "sinopsis": "Following the defeat of a great adversary, Gokuu Son and his friends live peaceful lives on Earth. Meanwhile, in space, Beerus the God of Destruction awakens from his long slumber, having dreamed of an entity known as a Super Saiyan God. With the help of his assistant, Whis, Beerus looks for this powerful being, as he wishes to fight a worthy opponent. After discovering that the Saiyan home planet was destroyed, he tracks down the remaining Saiyans on Earth, looking for Gokuu specifically.\n\nHaving only heard of the Super Saiyan God in legends, Gokuu and his comrades summon Shen Long the Eternal Dragon, who they find out is afraid of Beerus. After learning the secret of the Super Saiyan God, an intense battle between Gokuu and Beerus commences, the immense power of which puts the Earth in terrible danger.\n\n[Written by MAL Rewrite]",
+        "puntuacio": 7.41,
+        "episodis": 1,
+        "url": "https://myanimelist.net/anime/14837/Dragon_Ball_Z_Movie_14__Kami_to_Kami",
         "generes": [
             "Action",
             "Adventure",
-            "Fantasy",
-            "Erotica"
+            "Fantasy"
         ],
-        "any_estrena": 2017,
+        "any_estrena": null,
         "estudis": [
-            "Artland",
-            "TNK"
+            "Toei Animation"
+        ]
+    },
+    {
+        "titol": "Dragon Ball Super: Broly",
+        "tipus": "Movie",
+        "estat": "Finished Airing",
+        "posicio_popularitat": 564,
+        "classificacio_edat": "PG-13 - Teens 13 or older",
+        "sinopsis": "Forty-one years ago on Planet Vegeta, home of the infamous Saiyan warrior race, King Vegeta noticed a baby named Broly whose latent power exceeded that of his own son. Believing that Broly's power would one day surpass that of his child, Vegeta, the king sends Broly to the desolate planet Vampa. Broly's father Paragus follows after him, intent on rescuing his son. However, his ship gets damaged, causing the two to spend years trapped on the barren world, unaware of the salvation that would one day come from an unlikely ally.\n\nYears later on Earth, Gokuu Son and Prince Vegeta—believed to be the last survivors of the Saiyan race—are busy training on a remote island. But their sparring is interrupted when the appearance of their old enemy Frieza drives them to search for the last of the wish-granting Dragon Balls on a frozen continent. Once there, Frieza shows off his new allies: Paragus and the now extremely powerful Broly. A legendary battle that shakes the foundation of the world ensues as Gokuu and Vegeta face off against Broly, a warrior without equal whose rage is just waiting to be unleashed.\n\n[Written by MAL Rewrite]",
+        "puntuacio": 8.19,
+        "episodis": 1,
+        "url": "https://myanimelist.net/anime/36946/Dragon_Ball_Super__Broly",
+        "generes": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "any_estrena": null,
+        "estudis": [
+            "Toei Animation"
         ]
     }
 ]
