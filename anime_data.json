@@ -1,22 +1,42 @@
 [
     {
-        "titol": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
-        "tipus": "Special",
+        "titol": "One Piece Film: Z",
+        "tipus": "Movie",
         "estat": "Finished Airing",
-        "posicio_popularitat": 1967,
+        "posicio_popularitat": 880,
         "classificacio_edat": "PG-13 - Teens 13 or older",
-        "sinopsis": "Bundled with the limited edition of Blu-ray/DVD of Boruto: Naruto the Movie.",
-        "puntuacio": 7.32,
+        "sinopsis": "The Straw Hat Pirates enter the rough seas of the New World in search of the hidden treasures of the Pirate King, Gol D. Roger－One Piece. On their voyage, the pirates come across a terrifying, powerful man, former Marine Admiral Z.\n\nZ is accused of having stolen the \"Dyna Stones\", weapons believed to have the power to shake up the New World. The Marine Headquarters believes Z is about to use it to end the pirate era, and with it, the lives of many innocent people. In fear of such a phenomenal event, marines start to take action against the former admiral.\n\nEven if it means stumbling upon marines and the navy, the Straw Hat Pirates decided to chase after Z and stop him from causing havoc. As they continue to embark on their ventures, the pirates bump into new and familiar acquaintances.",
+        "puntuacio": 8.11,
         "episodis": 1,
-        "url": "https://myanimelist.net/anime/32365/Boruto__Naruto_the_Movie_-_Naruto_ga_Hokage_ni_Natta_Hi",
+        "url": "https://myanimelist.net/anime/12859/One_Piece_Film__Z",
         "generes": [
             "Action",
             "Adventure",
             "Fantasy"
         ],
-        "any_estrena": 2016,
+        "any_estrena": 2012,
         "estudis": [
-            "Pierrot"
+            "Toei Animation"
+        ]
+    },
+    {
+        "titol": "One Piece Movie 01",
+        "tipus": "Movie",
+        "estat": "Finished Airing",
+        "posicio_popularitat": 1688,
+        "classificacio_edat": "PG-13 - Teens 13 or older",
+        "sinopsis": "Many years ago, Woonan, a legendary pirate, plundered one-third of the world's gold and stashed it away on his secret island shrouded in mystery. \n\nIn the present, Luffy and the rest of the Straw Hats continue on their journey to the Grand Line. They are robbed by a group of bandits. Led by their captain, El Drago, these same bandits are headed towards Woonan's famed island. Even though the Straw Hat Pirates must now recover their stolen treasure, they have gained another objective: to discover the lost island, its treasures, and learn about the legend of Woonan.\n\n[Written by MAL Rewrite]",
+        "puntuacio": 7.09,
+        "episodis": 1,
+        "url": "https://myanimelist.net/anime/459/One_Piece_Movie_01",
+        "generes": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "any_estrena": 2000,
+        "estudis": [
+            "Toei Animation"
         ]
     }
 ]
